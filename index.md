@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# SAMUEL BERGERET
+156 rue Pierre Semard - 27140 Gisors
 
-You can use the [editor on GitHub](https://github.com/BergeretSamuel/CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+06.25.25.59.24 - samuelbergeret@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Etat civil**
+* Né le 12 avril 2002 à Pontoise
+- Permis de conduire en cours
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**FORMATION**
+- Brevet des collèges (2017)
+- Bac pro commerce (2020)
 
-```markdown
-Syntax highlighted code block
+**CENTRES D’INTERET**
 
-# Header 1
-## Header 2
-### Header 3
+- 8ème année de batterie : 3 ans en cours particulier puis 4 ans au conservatoire de
+  Gisors (27).
 
-- Bulleted
-- List
+- Niveau 1 en plongée sous-marine,
 
-1. Numbered
-2. List
+- Sports déjà pratiqués en club : basket, volleyball, foot, tennis et badminton.
 
-**Bold** and _Italic_ and `Code` text
+**EXPERIENCE PROFESSIONNELLE**
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Octobre 2020 : McDonald’s – Gisors ; 1 ans en tant qu’Équipier Polyvalent, c’est-à-dire, réceptionner les livraisons le matin ainsi que préparer la cuisine, cuisiner ou faire le service à table le midi et le soir.
 
-### Jekyll Themes
+- Septembre 2019 et Janvier 2020 : Meuble Gréaume – Gournay en Bray ; 2 mois de stage en accueil et conseil client sur salon, literie et décoration d’intérieur. Réception des produits, mise en rayon, merchandising, montage du mobilier, réalisation d’ambiances. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BergeretSamuel/CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Avril 2019 : Mr. Bricolage – Gisors ; 1 mois de stage en accueil et conseil client en bricolage et décoration d’intérieur/extérieur. Réception des produits et implantation en rayon, réassort, merchandising, réalisation d’ambiances et entretien du magasin.
 
-### Support or Contact
+- Juin et septembre 2018 : Forum + - Gisors ; 1 mois + 3 semaines de stage en accueil et conseil client en ameublement et décoration. Réception des produits et implantation en rayon, réassort, merchandising, montage du mobilier, réalisation d’ambiances et entretien du magasin.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Janvier 2018 : Celio – Gisors ; 3 semaines de stage en accueil et conseil client dans le prêt-à-porter masculin. Réalisation de la vitrine, réception des produits, étiquetage, pliage et entretien du magasin. Formation aux produits sur support informatique.
+
+
+
